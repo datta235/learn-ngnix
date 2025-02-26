@@ -7,10 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/datta235/learn-ngnix.git"
-  },
   "author": "",
   "license": "ISC",
   "bugs": {
