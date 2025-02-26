@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/datta235/learn-ngnix.git"
+    "url": "https://github.com/datta235/learn-ngnix.git"
   },
   "author": "",
   "license": "ISC",
